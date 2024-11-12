@@ -1,4 +1,5 @@
 Python
 Bash
 Java
+JavaScript
 C++
