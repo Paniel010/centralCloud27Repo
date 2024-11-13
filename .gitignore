@@ -1,5 +1,6 @@
 password
 Token
 GithubToken
-FilesnamesToBeIgnored
+list down FilesnamesToBeIgnored
 *.css
+list down fileExtensions to be ignored
