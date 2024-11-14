@@ -1,8 +1,22 @@
 This is my First file
 Starting Git and Github
+<<<<<<< Updated upstream
 Test line code
 To the Mumbaifile
 
 While It was in stashing mode adding this
 done ..
 
+test line code
+to the Mumbaifile
+
+code 1 for stashing
+code 2 fro stashing
+code 3 for stashing
+code 4 for stashing
+left half code
+so we cant commit
+
+came back Stashing
+modified
+Done..
