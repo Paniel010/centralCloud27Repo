@@ -1,5 +1,6 @@
 Python
 Bash
+GoLan
 Java
 JavaScript
 C++
